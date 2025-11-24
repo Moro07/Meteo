@@ -236,3 +236,11 @@ mappa.on("click", async (evento) => {
 * **Mappe:** OpenStreetMap
 
 ---
+
+## Fonti
+
+* Leaflet – mappa interattiva
+* PocketBase – gestione dei dati e API locali
+* Open-Meteo – dati meteorologici
+* Nominatim / OpenStreetMap – geocoding e informazioni sui luoghi
+* Dati geografici © OpenStreetMap contributors
